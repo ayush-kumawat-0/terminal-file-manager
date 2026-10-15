@@ -596,7 +596,7 @@ do
         echo
         echo -e "${CYAN}${BOLD}╔══════════════════════════════════════════════════════════════╗${RESET}"
         echo -e "${CYAN}${BOLD}║                    TERMINAL FILE MANAGER                     ║${RESET}"
-	echo -e "${CYAN}${BOLD}║							       ║${RESET}"
+		echo -e "${CYAN}${BOLD}║							       							  ║${RESET}"
         echo -e "${CYAN}${BOLD}║                  Linux • Bash • File Tools                   ║${RESET}"
         echo -e "${CYAN}${BOLD}╚══════════════════════════════════════════════════════════════╝${RESET}"
         echo
