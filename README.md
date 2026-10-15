@@ -81,24 +81,32 @@ It provides a simple interface for performing common Linux file-system operation
 # 🖥️ Application Interface
 
 ```text
-=========================================================
-                  TERMINAL FILE MANAGER
-=========================================================
-  [1] Create new file
-  [2] Copy File
-  [3] Delete File
-  [4] Rename File
-  [5] Move File
-  [6] View File / Directory Details
-  [7] Create Folder
-  [8] Check if Folder Exists
-  [9] List Folder Contents
- [10] Find Files by Name
- [11] Find Text Inside Files
- [12] Filter Files by Extension
- [13] Count Total File
- [14] View File Statistics
- [15] Exit Application
-=========================================================
+╔══════════════════════════════════════════════════════════════╗
+║                    TERMINAL FILE MANAGER                     ║
+║                                                              ║
+║                  Linux • Bash • File Tools                   ║
+╚══════════════════════════════════════════════════════════════╝
+
+Current Directory:
+/root/PROJECTS/Project1
+
+FILE MANAGEMENT
+──────────────────────────────────────────────────────────────
+  [1] Create File              [2] Copy File
+  [3] Delete File              [4] Rename File
+  [5] Move File                [6] Inspect File
+
+DIRECTORY MANAGEMENT
+──────────────────────────────────────────────────────────────
+  [7] Create Directory         [8] Check Directory
+  [9] Browse Directory
+
+SEARCH & ANALYSIS
+──────────────────────────────────────────────────────────────
+  [10] Find Files              [11] Search Text
+  [12] Filter by Extension     [13] Count Files
+  [14] Directory Statistics
+
+  [15] Exit
 
 Enter your choice (1-15) :
